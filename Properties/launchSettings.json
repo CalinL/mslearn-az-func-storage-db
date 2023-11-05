@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "mslearn_az_func_storage_db": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7091",
+      "launchBrowser": false
+    }
+  }
+}
